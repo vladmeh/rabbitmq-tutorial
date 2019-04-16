@@ -1,11 +1,11 @@
 <?php
 
-require_once __DIR__ . '/../vendor/autoload.php';
+include (__DIR__. '/../../config/config.php');
 
 use PhpAmqpLib\Connection\AMQPStreamConnection;
 use PhpAmqpLib\Message\AMQPMessage;
 
-$connection = new AMQPStreamConnection('localhost', 5672, 'guest', 'guest');
+$connection = new AMQPStreamConnection(HOST, PORT, USER, PASS);
 $channel = $connection->channel();
 
 $channel->queue_declare('rpc_queue', false, false, false, false);
