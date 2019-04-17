@@ -1,0 +1,6114 @@
+<RESPONSE>
+ <PRICELIST>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>1</clubid>
+   <club>FH на Чкаловской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>(Акция) "1 год Левашовский" ps</type>
+   <price>20000</price>
+   <clubid>2</clubid>
+   <club>FH на Стрелке В.О.</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>(Акция) "1 год Утро Левашовский" ps</type>
+   <price>12000</price>
+   <clubid>2</clubid>
+   <club>FH на Стрелке В.О.</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>Утро</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>25</clubid>
+   <club>FH на Энгельса</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>24</clubid>
+   <club>FH в Гатчине</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>43</clubid>
+   <club>FH на Дальневосточном</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>35</clubid>
+   <club>FH на Маршала Говорова</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>15700</price>
+   <clubid>34</clubid>
+   <club>FH в Рыбацком</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>32</clubid>
+   <club>FH на Профессора Попова (ЛДМ)</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>15700</price>
+   <clubid>4</clubid>
+   <club>FH на Ленинском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>15700</price>
+   <clubid>30</clubid>
+   <club>FH на Выборгской наб.</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>15700</price>
+   <clubid>2</clubid>
+   <club>FH на Стрелке В.О.</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>15700</price>
+   <clubid>14</clubid>
+   <club>FH на Пражской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>15700</price>
+   <clubid>1</clubid>
+   <club>FH на Чкаловской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>10</clubid>
+   <club>FH на Наставников</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>8</clubid>
+   <club>FH на Балканской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>20</clubid>
+   <club>FH в Петергофе</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>17</clubid>
+   <club>FH на Коломяжском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>23</clubid>
+   <club>FH в Светлановском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>9</clubid>
+   <club>FH на Просвещения</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>19</clubid>
+   <club>FH на Мебельной</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>22</clubid>
+   <club>FH на Васильевском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>15700</price>
+   <clubid>24</clubid>
+   <club>FH в Гатчине</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>7600</price>
+   <clubid>58</clubid>
+   <club>FH Ульяновск Созидателей</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>15700</price>
+   <clubid>35</clubid>
+   <club>FH на Маршала Говорова</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6000</price>
+   <clubid>34</clubid>
+   <club>FH в Рыбацком</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6000</price>
+   <clubid>30</clubid>
+   <club>FH на Выборгской наб.</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>15700</price>
+   <clubid>32</clubid>
+   <club>FH на Профессора Попова (ЛДМ)</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6000</price>
+   <clubid>4</clubid>
+   <club>FH на Ленинском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6000</price>
+   <clubid>14</clubid>
+   <club>FH на Пражской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6000</price>
+   <clubid>2</clubid>
+   <club>FH на Стрелке В.О.</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6000</price>
+   <clubid>1</clubid>
+   <club>FH на Чкаловской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>19</clubid>
+   <club>FH на Мебельной</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6000</price>
+   <clubid>24</clubid>
+   <club>FH в Гатчине</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6000</price>
+   <clubid>35</clubid>
+   <club>FH на Маршала Говорова</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6000</price>
+   <clubid>32</clubid>
+   <club>FH на Профессора Попова (ЛДМ)</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>19</clubid>
+   <club>FH на Мебельной</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>41</clubid>
+   <club>FH на Ветеранов</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>53</clubid>
+   <club>FH Казань Спартаковский</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>7</clubid>
+   <club>FH в Девяткино</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>11</clubid>
+   <club>FH на Ладожской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>55</clubid>
+   <club>FH Казань Габишева</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>(Акция) Мультикарта FH&amp;Prestige (LUX) 1 год "Молодежный" (девушки 18-25 лет) ps</type>
+   <price>61000</price>
+   <clubid>15</clubid>
+   <club>FH Prestige на Левашовском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>12</clubid>
+   <club>FH на Пискаревском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>6</clubid>
+   <club>FH на Савушкина</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Мультикарта FH&amp;Prestige (LUX) 1 год Утро ps</type>
+   <price>79000</price>
+   <clubid>15</clubid>
+   <club>FH Prestige на Левашовском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>Утро</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>28</clubid>
+   <club>FH на Крестовском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>3</clubid>
+   <club>FH на Пулковском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>5</clubid>
+   <club>FH в Лахте</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>13</clubid>
+   <club>FH на Комендантском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>50</clubid>
+   <club>FH Н.Новгород Московский</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>54</clubid>
+   <club>FH Н.Новгород Цветы</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>(Акция) Пакет максимальный ( при покупке 24 и более персональных тренировок), без права переоформления ps</type>
+   <price>29400</price>
+   <clubid>16</clubid>
+   <club>FH Prestige на Хошимина</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>42</clubid>
+   <club>FH на Софийской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>39</clubid>
+   <club>FH на Фучика</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>45</clubid>
+   <club>FH на Северном</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>46</clubid>
+   <club>FH в Кудрово</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>44</clubid>
+   <club>FH на Большевиков</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>49</clubid>
+   <club>FH на Маршала Блюхера</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Мультикарта FH&amp;Prestige (LUX) 1 год ps</type>
+   <price>95000</price>
+   <clubid>15</clubid>
+   <club>FH Prestige на Левашовском</club>
+   <agreeddiscount>5</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>27</clubid>
+   <club>FH на Культуры</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Корпоративный, 1 год ps</type>
+   <price>36000</price>
+   <clubid>50</clubid>
+   <club>FH Н.Новгород Московский</club>
+   <agreeddiscount>65</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>40</clubid>
+   <club>FH на Стачек</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>48</clubid>
+   <club>FH на Краснопутиловской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>(Акция) 1 год Молодёжный (18 - 23 лет) ps</type>
+   <price>20000</price>
+   <clubid>33</clubid>
+   <club>FH Prestige на Пулковском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>(Акция) 1 год Молодёжный (18 - 23 лет) ps</type>
+   <price>20000</price>
+   <clubid>16</clubid>
+   <club>FH Prestige на Хошимина</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>56</clubid>
+   <club>FH Тольятти Революционная</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>(Акция) 1 год Молодёжный (18 - 23 лет) ps</type>
+   <price>20000</price>
+   <clubid>38</clubid>
+   <club>FH Prestige на Гашека</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>51</clubid>
+   <club>FH в Мурино</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>20900</price>
+   <clubid>53</clubid>
+   <club>FH Казань Спартаковский</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>11</clubid>
+   <club>FH на Ладожской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>7</clubid>
+   <club>FH в Девяткино</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>12</clubid>
+   <club>FH на Пискаревском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>13</clubid>
+   <club>FH на Комендантском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>6</clubid>
+   <club>FH на Савушкина</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>5</clubid>
+   <club>FH в Лахте</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>3</clubid>
+   <club>FH на Пулковском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>25</clubid>
+   <club>FH на Энгельса</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>28</clubid>
+   <club>FH на Крестовском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>43</clubid>
+   <club>FH на Дальневосточном</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>49</clubid>
+   <club>FH на Маршала Блюхера</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>41</clubid>
+   <club>FH на Ветеранов</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>21</clubid>
+   <club>FH на Бульваре Новаторов</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>20900</price>
+   <clubid>54</clubid>
+   <club>FH Н.Новгород Цветы</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>21</clubid>
+   <club>FH на Бульваре Новаторов</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>46</clubid>
+   <club>FH в Кудрово</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>44</clubid>
+   <club>FH на Большевиков</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>45</clubid>
+   <club>FH на Северном</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>42</clubid>
+   <club>FH на Софийской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>(Акция) 1 год Молодёжный (18 - 23 лет) ps</type>
+   <price>20000</price>
+   <clubid>26</clubid>
+   <club>FH Prestige на Королева</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>39</clubid>
+   <club>FH на Фучика</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>20900</price>
+   <clubid>50</clubid>
+   <club>FH Н.Новгород Московский</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>27</clubid>
+   <club>FH на Культуры</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>48</clubid>
+   <club>FH на Краснопутиловской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>40</clubid>
+   <club>FH на Стачек</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>7600</price>
+   <clubid>53</clubid>
+   <club>FH Казань Спартаковский</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>51</clubid>
+   <club>FH в Мурино</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>7</clubid>
+   <club>FH в Девяткино</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>11</clubid>
+   <club>FH на Ладожской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>12</clubid>
+   <club>FH на Пискаревском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>6</clubid>
+   <club>FH на Савушкина</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>3</clubid>
+   <club>FH на Пулковском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>13</clubid>
+   <club>FH на Комендантском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>7600</price>
+   <clubid>54</clubid>
+   <club>FH Н.Новгород Цветы</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>7600</price>
+   <clubid>50</clubid>
+   <club>FH Н.Новгород Московский</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>5</clubid>
+   <club>FH в Лахте</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>28</clubid>
+   <club>FH на Крестовском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>25</clubid>
+   <club>FH на Энгельса</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>41</clubid>
+   <club>FH на Ветеранов</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>49</clubid>
+   <club>FH на Маршала Блюхера</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>46</clubid>
+   <club>FH в Кудрово</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>42</clubid>
+   <club>FH на Софийской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>44</clubid>
+   <club>FH на Большевиков</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>21</clubid>
+   <club>FH на Бульваре Новаторов</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>43</clubid>
+   <club>FH на Дальневосточном</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>39</clubid>
+   <club>FH на Фучика</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>45</clubid>
+   <club>FH на Северном</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>27</clubid>
+   <club>FH на Культуры</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>40</clubid>
+   <club>FH на Стачек</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>48</clubid>
+   <club>FH на Краснопутиловской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>37</clubid>
+   <club>FH на Таллинском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>51</clubid>
+   <club>FH в Мурино</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>31</clubid>
+   <club>FH на Гашека</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6000</price>
+   <clubid>56</clubid>
+   <club>FH Тольятти Революционная</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>37</clubid>
+   <club>FH на Таллинском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>17800</price>
+   <clubid>31</clubid>
+   <club>FH на Гашека</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>37</clubid>
+   <club>FH на Таллинском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>6500</price>
+   <clubid>31</clubid>
+   <club>FH на Гашека</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>15700</price>
+   <clubid>56</clubid>
+   <club>FH Тольятти Революционная</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>58</clubid>
+   <club>FH Ульяновск Созидателей</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>20900</price>
+   <clubid>58</clubid>
+   <club>FH Ульяновск Созидателей</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>1 год. ps</type>
+   <price>40000</price>
+   <clubid>26</clubid>
+   <club>FH Prestige на Королева</club>
+   <agreeddiscount>35</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>1 год. ps</type>
+   <price>40000</price>
+   <clubid>38</clubid>
+   <club>FH Prestige на Гашека</club>
+   <agreeddiscount>35</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>59</clubid>
+   <club>FH Архангельск Московский</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>20900</price>
+   <clubid>59</clubid>
+   <club>FH Архангельск Московский</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>7600</price>
+   <clubid>59</clubid>
+   <club>FH Архангельск Московский</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>1 день "Победа" ps</type>
+   <price>100</price>
+   <clubid>50</clubid>
+   <club>FH Н.Новгород Московский</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>1 день (не более 1 визита)</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>1</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (Утро)". ps</type>
+   <price>30000</price>
+   <clubid>16</clubid>
+   <club>FH Prestige на Хошимина</club>
+   <agreeddiscount>10</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>Утро</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (Утро)". ps</type>
+   <price>30000</price>
+   <clubid>33</clubid>
+   <club>FH Prestige на Пулковском</club>
+   <agreeddiscount>10</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>Утро</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>60</clubid>
+   <club>FH Ижевск Матрица</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>20900</price>
+   <clubid>60</clubid>
+   <club>FH Ижевск Матрица</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>7600</price>
+   <clubid>60</clubid>
+   <club>FH Ижевск Матрица</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>4</clubid>
+   <club>FH на Ленинском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>2</clubid>
+   <club>FH на Стрелке В.О.</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>32</clubid>
+   <club>FH на Профессора Попова (ЛДМ)</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>35</clubid>
+   <club>FH на Маршала Говорова</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>20</clubid>
+   <club>FH в Петергофе</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>24</clubid>
+   <club>FH в Гатчине</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>21</clubid>
+   <club>FH на Бульваре Новаторов</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>13</clubid>
+   <club>FH на Комендантском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>25</clubid>
+   <club>FH на Энгельса</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>51</clubid>
+   <club>FH в Мурино</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>44</clubid>
+   <club>FH на Большевиков</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>38</clubid>
+   <club>FH Prestige на Гашека</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>26</clubid>
+   <club>FH Prestige на Королева</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>33</clubid>
+   <club>FH Prestige на Пулковском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>6</clubid>
+   <club>FH на Савушкина</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>10</clubid>
+   <club>FH на Наставников</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>52</clubid>
+   <club>FH на Наличной</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>11</clubid>
+   <club>FH на Ладожской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>9</clubid>
+   <club>FH на Просвещения</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>17</clubid>
+   <club>FH на Коломяжском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>3</clubid>
+   <club>FH на Пулковском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>42</clubid>
+   <club>FH на Софийской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>23</clubid>
+   <club>FH в Светлановском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>14</clubid>
+   <club>FH на Пражской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>34</clubid>
+   <club>FH в Рыбацком</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>7</clubid>
+   <club>FH в Девяткино</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>5</clubid>
+   <club>FH в Лахте</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>37</clubid>
+   <club>FH на Таллинском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>40</clubid>
+   <club>FH на Стачек</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>49</clubid>
+   <club>FH на Маршала Блюхера</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>41</clubid>
+   <club>FH на Ветеранов</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>15</clubid>
+   <club>FH Prestige на Левашовском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>45</clubid>
+   <club>FH на Северном</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>16</clubid>
+   <club>FH Prestige на Хошимина</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>39</clubid>
+   <club>FH на Фучика</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>1</clubid>
+   <club>FH на Чкаловской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>30</clubid>
+   <club>FH на Выборгской наб.</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>22</clubid>
+   <club>FH на Васильевском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>27</clubid>
+   <club>FH на Культуры</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>8</clubid>
+   <club>FH на Балканской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>31</clubid>
+   <club>FH на Гашека</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>28</clubid>
+   <club>FH на Крестовском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>48</clubid>
+   <club>FH на Краснопутиловской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>43</clubid>
+   <club>FH на Дальневосточном</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>46</clubid>
+   <club>FH в Кудрово</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>19</clubid>
+   <club>FH на Мебельной</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год ps</type>
+   <price>12900</price>
+   <clubid>12</clubid>
+   <club>FH на Пискаревском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>57</clubid>
+   <club>FH Самара Амбар</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый + 1 ребенок) с 15 до 22 ps</type>
+   <price>20900</price>
+   <clubid>57</clubid>
+   <club>FH Самара Амбар</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Семейный договор выходного дня (1 взрослый) с 15 до 22 ps</type>
+   <price>7600</price>
+   <clubid>57</clubid>
+   <club>FH Самара Амбар</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 15 до 22 сб, вс</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция Мультикарта FH&amp;Prestige (LUX) 1 год с 11 до 14 ps</type>
+   <price>39900</price>
+   <clubid>15</clubid>
+   <club>FH Prestige на Левашовском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 11 до 14</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция Мультикарта FH&amp;Prestige (LUX) 5 месяцев ps</type>
+   <price>49900</price>
+   <clubid>15</clubid>
+   <club>FH Prestige на Левашовском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>5 месяцев</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>151</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Мультикарта FH&amp;Prestige (LUX) Продление 2 года + 3 месяца в подарок ps</type>
+   <price>152000</price>
+   <clubid>15</clubid>
+   <club>FH Prestige на Левашовском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 3 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>821</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год. ps</type>
+   <price>29900</price>
+   <clubid>33</clubid>
+   <club>FH Prestige на Пулковском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год. ps</type>
+   <price>29900</price>
+   <clubid>16</clubid>
+   <club>FH Prestige на Хошимина</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>1 год с 11 до 14. ps</type>
+   <price>15000</price>
+   <clubid>33</clubid>
+   <club>FH Prestige на Пулковском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 11 до 14</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>1 год с 11 до 14. ps</type>
+   <price>15000</price>
+   <clubid>16</clubid>
+   <club>FH Prestige на Хошимина</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>с 11 до 14</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"6 месяцев". ps</type>
+   <price>19900</price>
+   <clubid>16</clubid>
+   <club>FH Prestige на Хошимина</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>6 месяцев</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>181</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"6 месяцев". ps</type>
+   <price>19900</price>
+   <clubid>33</clubid>
+   <club>FH Prestige на Пулковском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>6 месяцев</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>181</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год (Утро). ps</type>
+   <price>19900</price>
+   <clubid>38</clubid>
+   <club>FH Prestige на Гашека</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>Утро</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год (Утро). ps</type>
+   <price>19900</price>
+   <clubid>26</clubid>
+   <club>FH Prestige на Королева</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>Утро</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 8 месяцев. ps</type>
+   <price>19900</price>
+   <clubid>38</clubid>
+   <club>FH Prestige на Гашека</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>8 месяцев</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>241</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 8 месяцев. ps</type>
+   <price>19900</price>
+   <clubid>26</clubid>
+   <club>FH Prestige на Королева</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>8 месяцев</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>241</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>30000</price>
+   <clubid>35</clubid>
+   <club>FH на Маршала Говорова</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>15000</price>
+   <clubid>8</clubid>
+   <club>FH на Балканской</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>30000</price>
+   <clubid>4</clubid>
+   <club>FH на Ленинском</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>30000</price>
+   <clubid>24</clubid>
+   <club>FH в Гатчине</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>15000</price>
+   <clubid>22</clubid>
+   <club>FH на Васильевском</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>44</clubid>
+   <club>FH на Большевиков</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>19</clubid>
+   <club>FH на Мебельной</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 2 года ps</type>
+   <price>52000</price>
+   <clubid>35</clubid>
+   <club>FH на Маршала Говорова</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>15000</price>
+   <clubid>20</clubid>
+   <club>FH в Петергофе</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>30000</price>
+   <clubid>1</clubid>
+   <club>FH на Чкаловской</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>15000</price>
+   <clubid>9</clubid>
+   <club>FH на Просвещения</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>13</clubid>
+   <club>FH на Комендантском</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>27</clubid>
+   <club>FH на Культуры</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>21</clubid>
+   <club>FH на Бульваре Новаторов</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>37</clubid>
+   <club>FH на Таллинском</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>39</clubid>
+   <club>FH на Фучика</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>51</clubid>
+   <club>FH в Мурино</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>48</clubid>
+   <club>FH на Краснопутиловской</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 2 года ps</type>
+   <price>26000</price>
+   <clubid>20</clubid>
+   <club>FH в Петергофе</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>43</clubid>
+   <club>FH на Дальневосточном</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 2 года ps</type>
+   <price>52000</price>
+   <clubid>1</clubid>
+   <club>FH на Чкаловской</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>12</clubid>
+   <club>FH на Пискаревском</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>30000</price>
+   <clubid>34</clubid>
+   <club>FH в Рыбацком</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>15000</price>
+   <clubid>10</clubid>
+   <club>FH на Наставников</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>30000</price>
+   <clubid>32</clubid>
+   <club>FH на Профессора Попова (ЛДМ)</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>30000</price>
+   <clubid>30</clubid>
+   <club>FH на Выборгской наб.</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 2 года ps</type>
+   <price>26000</price>
+   <clubid>9</clubid>
+   <club>FH на Просвещения</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>30000</price>
+   <clubid>14</clubid>
+   <club>FH на Пражской</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>30000</price>
+   <clubid>2</clubid>
+   <club>FH на Стрелке В.О.</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>11</clubid>
+   <club>FH на Ладожской</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>6</clubid>
+   <club>FH на Савушкина</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>31</clubid>
+   <club>FH на Гашека</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>15000</price>
+   <clubid>23</clubid>
+   <club>FH в Светлановском</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>25</clubid>
+   <club>FH на Энгельса</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>3</clubid>
+   <club>FH на Пулковском</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>5</clubid>
+   <club>FH в Лахте</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>42</clubid>
+   <club>FH на Софийской</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>7</clubid>
+   <club>FH в Девяткино</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>28</clubid>
+   <club>FH на Крестовском</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>49</clubid>
+   <club>FH на Маршала Блюхера</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>41</clubid>
+   <club>FH на Ветеранов</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>45</clubid>
+   <club>FH на Северном</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>46</clubid>
+   <club>FH в Кудрово</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 2 года ps</type>
+   <price>26000</price>
+   <clubid>10</clubid>
+   <club>FH на Наставников</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 2 года ps</type>
+   <price>52000</price>
+   <clubid>34</clubid>
+   <club>FH в Рыбацком</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>33000</price>
+   <clubid>40</clubid>
+   <club>FH на Стачек</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 2 года ps</type>
+   <price>52000</price>
+   <clubid>14</clubid>
+   <club>FH на Пражской</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 2 года ps</type>
+   <price>52000</price>
+   <clubid>2</clubid>
+   <club>FH на Стрелке В.О.</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 2 года ps</type>
+   <price>52000</price>
+   <clubid>32</clubid>
+   <club>FH на Профессора Попова (ЛДМ)</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 2 года ps</type>
+   <price>26000</price>
+   <clubid>23</clubid>
+   <club>FH в Светлановском</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 2 года ps</type>
+   <price>52000</price>
+   <clubid>24</clubid>
+   <club>FH в Гатчине</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 2 года ps</type>
+   <price>52000</price>
+   <clubid>4</clubid>
+   <club>FH на Ленинском</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 2 года ps</type>
+   <price>26000</price>
+   <clubid>22</clubid>
+   <club>FH на Васильевском</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 2 года ps</type>
+   <price>26000</price>
+   <clubid>8</clubid>
+   <club>FH на Балканской</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 2 года ps</type>
+   <price>52000</price>
+   <clubid>30</clubid>
+   <club>FH на Выборгской наб.</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>26000</price>
+   <clubid>55</clubid>
+   <club>FH Казань Габишева</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>40000</price>
+   <clubid>53</clubid>
+   <club>FH Казань Спартаковский</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>40000</price>
+   <clubid>58</clubid>
+   <club>FH Ульяновск Созидателей</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>40000</price>
+   <clubid>60</clubid>
+   <club>FH Ижевск Матрица</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>40000</price>
+   <clubid>54</clubid>
+   <club>FH Н.Новгород Цветы</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 2 года ps</type>
+   <price>40000</price>
+   <clubid>55</clubid>
+   <club>FH Казань Габишева</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 2 года ps</type>
+   <price>66000</price>
+   <clubid>60</clubid>
+   <club>FH Ижевск Матрица</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 2 года ps</type>
+   <price>66000</price>
+   <clubid>58</clubid>
+   <club>FH Ульяновск Созидателей</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>40000</price>
+   <clubid>50</clubid>
+   <club>FH Н.Новгород Московский</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 2 года ps</type>
+   <price>66000</price>
+   <clubid>53</clubid>
+   <club>FH Казань Спартаковский</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>40000</price>
+   <clubid>57</clubid>
+   <club>FH Самара Амбар</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>40000</price>
+   <clubid>59</clubid>
+   <club>FH Архангельск Московский</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год ps</type>
+   <price>26000</price>
+   <clubid>56</clubid>
+   <club>FH Тольятти Революционная</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 2 года ps</type>
+   <price>66000</price>
+   <clubid>50</clubid>
+   <club>FH Н.Новгород Московский</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 2 года ps</type>
+   <price>66000</price>
+   <clubid>54</clubid>
+   <club>FH Н.Новгород Цветы</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 2 года ps</type>
+   <price>40000</price>
+   <clubid>56</clubid>
+   <club>FH Тольятти Революционная</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 2 года ps</type>
+   <price>66000</price>
+   <clubid>59</clubid>
+   <club>FH Архангельск Московский</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 2 года ps</type>
+   <price>66000</price>
+   <clubid>57</clubid>
+   <club>FH Самара Амбар</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>33000</price>
+   <clubid>53</clubid>
+   <club>FH Казань Спартаковский</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>33000</price>
+   <clubid>54</clubid>
+   <club>FH Н.Новгород Цветы</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>33000</price>
+   <clubid>50</clubid>
+   <club>FH Н.Новгород Московский</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>20000</price>
+   <clubid>56</clubid>
+   <club>FH Тольятти Революционная</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>20000</price>
+   <clubid>55</clubid>
+   <club>FH Казань Габишева</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Дорожной в Ярославле, 1 год ps</type>
+   <price>38000</price>
+   <clubid>61</clubid>
+   <club>FH Ярославль Нагорный</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Дорожной в Ярославле, 2 года ps</type>
+   <price>60000</price>
+   <clubid>61</clubid>
+   <club>FH Ярославль Нагорный</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Московской в Краснодаре, Акция! 1 год ps</type>
+   <price>10900</price>
+   <clubid>62</clubid>
+   <club>FH Краснодар Московская</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Акция 1 год (не более 100 визитов) ps</type>
+   <price>32000</price>
+   <clubid>57</clubid>
+   <club>FH Самара Амбар</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>1 год (не более 100 визитов)</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (Утро)" ps</type>
+   <price>19900</price>
+   <clubid>59</clubid>
+   <club>FH Архангельск Московский</club>
+   <agreeddiscount>10</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>Утро</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (Утро)" ps</type>
+   <price>19900</price>
+   <clubid>53</clubid>
+   <club>FH Казань Спартаковский</club>
+   <agreeddiscount>10</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>Утро</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Дорожной в Ярославле, 1 год (не более 100 визитов) ps</type>
+   <price>32000</price>
+   <clubid>61</clubid>
+   <club>FH Ярославль Нагорный</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>1 год (не более 100 визитов)</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>56000</price>
+   <clubid>50</clubid>
+   <club>FH Н.Новгород Московский</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>56000</price>
+   <clubid>58</clubid>
+   <club>FH Ульяновск Созидателей</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>30000</price>
+   <clubid>56</clubid>
+   <club>FH Тольятти Революционная</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>30000</price>
+   <clubid>55</clubid>
+   <club>FH Казань Габишева</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>56000</price>
+   <clubid>54</clubid>
+   <club>FH Н.Новгород Цветы</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>20000</price>
+   <clubid>55</clubid>
+   <club>FH Казань Габишева</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>33000</price>
+   <clubid>50</clubid>
+   <club>FH Н.Новгород Московский</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>53</clubid>
+   <club>FH Казань Спартаковский</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>20000</price>
+   <clubid>56</clubid>
+   <club>FH Тольятти Революционная</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>39</clubid>
+   <club>FH на Фучика</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>45</clubid>
+   <club>FH на Северном</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>44</clubid>
+   <club>FH на Большевиков</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>48</clubid>
+   <club>FH на Краснопутиловской</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>13</clubid>
+   <club>FH на Комендантском</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>12</clubid>
+   <club>FH на Пискаревском</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>27</clubid>
+   <club>FH на Культуры</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>28</clubid>
+   <club>FH на Крестовском</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>46</clubid>
+   <club>FH в Кудрово</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>43</clubid>
+   <club>FH на Дальневосточном</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>46000</price>
+   <clubid>1</clubid>
+   <club>FH на Чкаловской</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>49</clubid>
+   <club>FH на Маршала Блюхера</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>19</clubid>
+   <club>FH на Мебельной</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>37</clubid>
+   <club>FH на Таллинском</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>46000</price>
+   <clubid>34</clubid>
+   <club>FH в Рыбацком</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>46000</price>
+   <clubid>35</clubid>
+   <club>FH на Маршала Говорова</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>42</clubid>
+   <club>FH на Софийской</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>46000</price>
+   <clubid>2</clubid>
+   <club>FH на Стрелке В.О.</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>31</clubid>
+   <club>FH на Гашека</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>3</clubid>
+   <club>FH на Пулковском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>11</clubid>
+   <club>FH на Ладожской</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>5</clubid>
+   <club>FH в Лахте</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>6</clubid>
+   <club>FH на Савушкина</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>51</clubid>
+   <club>FH в Мурино</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>41</clubid>
+   <club>FH на Ветеранов</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>25</clubid>
+   <club>FH на Энгельса</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>46000</price>
+   <clubid>32</clubid>
+   <club>FH на Профессора Попова (ЛДМ)</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>46000</price>
+   <clubid>14</clubid>
+   <club>FH на Пражской</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>21</clubid>
+   <club>FH на Бульваре Новаторов</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>40</clubid>
+   <club>FH на Стачек</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>46000</price>
+   <clubid>30</clubid>
+   <club>FH на Выборгской наб.</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>46000</price>
+   <clubid>24</clubid>
+   <club>FH в Гатчине</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>46000</price>
+   <clubid>4</clubid>
+   <club>FH на Ленинском</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>50000</price>
+   <clubid>7</clubid>
+   <club>FH в Девяткино</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>6</clubid>
+   <club>FH на Савушкина</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>5</clubid>
+   <club>FH в Лахте</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>23000</price>
+   <clubid>4</clubid>
+   <club>FH на Ленинском</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>23000</price>
+   <clubid>30</clubid>
+   <club>FH на Выборгской наб.</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>41</clubid>
+   <club>FH на Ветеранов</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>40</clubid>
+   <club>FH на Стачек</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>51</clubid>
+   <club>FH в Мурино</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>31</clubid>
+   <club>FH на Гашека</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>48</clubid>
+   <club>FH на Краснопутиловской</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>42</clubid>
+   <club>FH на Софийской</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>12</clubid>
+   <club>FH на Пискаревском</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>28</clubid>
+   <club>FH на Крестовском</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>46</clubid>
+   <club>FH в Кудрово</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>27</clubid>
+   <club>FH на Культуры</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>44</clubid>
+   <club>FH на Большевиков</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>37</clubid>
+   <club>FH на Таллинском</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>23000</price>
+   <clubid>1</clubid>
+   <club>FH на Чкаловской</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>39</clubid>
+   <club>FH на Фучика</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>23000</price>
+   <clubid>2</clubid>
+   <club>FH на Стрелке В.О.</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>23000</price>
+   <clubid>34</clubid>
+   <club>FH в Рыбацком</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>9000</price>
+   <clubid>8</clubid>
+   <club>FH на Балканской</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>45</clubid>
+   <club>FH на Северном</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>23000</price>
+   <clubid>35</clubid>
+   <club>FH на Маршала Говорова</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>9000</price>
+   <clubid>22</clubid>
+   <club>FH на Васильевском</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>23000</price>
+   <clubid>24</clubid>
+   <club>FH в Гатчине</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>9000</price>
+   <clubid>23</clubid>
+   <club>FH в Светлановском</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>25</clubid>
+   <club>FH на Энгельса</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>13</clubid>
+   <club>FH на Комендантском</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>3</clubid>
+   <club>FH на Пулковском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>11</clubid>
+   <club>FH на Ладожской</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>9000</price>
+   <clubid>10</clubid>
+   <club>FH на Наставников</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>43</clubid>
+   <club>FH на Дальневосточном</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>21</clubid>
+   <club>FH на Бульваре Новаторов</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>9000</price>
+   <clubid>9</clubid>
+   <club>FH на Просвещения</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>9000</price>
+   <clubid>20</clubid>
+   <club>FH в Петергофе</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>49</clubid>
+   <club>FH на Маршала Блюхера</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>23000</price>
+   <clubid>14</clubid>
+   <club>FH на Пражской</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>19</clubid>
+   <club>FH на Мебельной</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>23000</price>
+   <clubid>32</clubid>
+   <club>FH на Профессора Попова (ЛДМ)</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"1 год (День)" ps</type>
+   <price>25000</price>
+   <clubid>7</clubid>
+   <club>FH в Девяткино</club>
+   <agreeddiscount>50</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>13000</price>
+   <clubid>10</clubid>
+   <club>FH на Наставников</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>26000</price>
+   <clubid>24</clubid>
+   <club>FH в Гатчине</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>26000</price>
+   <clubid>32</clubid>
+   <club>FH на Профессора Попова (ЛДМ)</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>13000</price>
+   <clubid>23</clubid>
+   <club>FH в Светлановском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>26000</price>
+   <clubid>34</clubid>
+   <club>FH в Рыбацком</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>13000</price>
+   <clubid>8</clubid>
+   <club>FH на Балканской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>26000</price>
+   <clubid>35</clubid>
+   <club>FH на Маршала Говорова</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>26000</price>
+   <clubid>4</clubid>
+   <club>FH на Ленинском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>13000</price>
+   <clubid>23</clubid>
+   <club>FH в Светлановском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>13000</price>
+   <clubid>9</clubid>
+   <club>FH на Просвещения</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>13000</price>
+   <clubid>10</clubid>
+   <club>FH на Наставников</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>26000</price>
+   <clubid>32</clubid>
+   <club>FH на Профессора Попова (ЛДМ)</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>26000</price>
+   <clubid>34</clubid>
+   <club>FH в Рыбацком</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>13000</price>
+   <clubid>9</clubid>
+   <club>FH на Просвещения</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>26000</price>
+   <clubid>35</clubid>
+   <club>FH на Маршала Говорова</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>13000</price>
+   <clubid>8</clubid>
+   <club>FH на Балканской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>26000</price>
+   <clubid>4</clubid>
+   <club>FH на Ленинском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>13000</price>
+   <clubid>22</clubid>
+   <club>FH на Васильевском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>26000</price>
+   <clubid>24</clubid>
+   <club>FH в Гатчине</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>26000</price>
+   <clubid>30</clubid>
+   <club>FH на Выборгской наб.</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>26000</price>
+   <clubid>2</clubid>
+   <club>FH на Стрелке В.О.</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>26000</price>
+   <clubid>1</clubid>
+   <club>FH на Чкаловской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>13000</price>
+   <clubid>20</clubid>
+   <club>FH в Петергофе</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>26000</price>
+   <clubid>14</clubid>
+   <club>FH на Пражской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>13000</price>
+   <clubid>22</clubid>
+   <club>FH на Васильевском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>26000</price>
+   <clubid>2</clubid>
+   <club>FH на Стрелке В.О.</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>26000</price>
+   <clubid>30</clubid>
+   <club>FH на Выборгской наб.</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>26000</price>
+   <clubid>1</clubid>
+   <club>FH на Чкаловской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>26000</price>
+   <clubid>14</clubid>
+   <club>FH на Пражской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>13000</price>
+   <clubid>20</clubid>
+   <club>FH в Петергофе</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок. ps</type>
+   <price>44000</price>
+   <clubid>38</clubid>
+   <club>FH Prestige на Гашека</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок. ps</type>
+   <price>63100</price>
+   <clubid>16</clubid>
+   <club>FH Prestige на Хошимина</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок. ps</type>
+   <price>63100</price>
+   <clubid>33</clubid>
+   <club>FH Prestige на Пулковском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок. ps</type>
+   <price>44000</price>
+   <clubid>26</clubid>
+   <club>FH Prestige на Королева</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Мультикарта FH&amp;Prestige (LUX) Продление 2 года ps</type>
+   <price>152000</price>
+   <clubid>15</clubid>
+   <club>FH Prestige на Левашовском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб в Петрозаводске, Акция! 1 год ps</type>
+   <price>9900</price>
+   <clubid>63</clubid>
+   <club>FH Петрозаводск Лесной</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"2 года День" ps</type>
+   <price>56000</price>
+   <clubid>60</clubid>
+   <club>FH Ижевск Матрица</club>
+   <agreeddiscount>70</agreeddiscount>
+   <period>2 года</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>730</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>(Акция) Продление Мультикарта FH&amp;Prestige (LUX) 1 год День ps</type>
+   <price>35000</price>
+   <clubid>15</clubid>
+   <club>FH Prestige на Левашовском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>21</clubid>
+   <club>FH на Бульваре Новаторов</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>42</clubid>
+   <club>FH на Софийской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>11</clubid>
+   <club>FH на Ладожской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>19</clubid>
+   <club>FH на Мебельной</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>6</clubid>
+   <club>FH на Савушкина</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>7</clubid>
+   <club>FH в Девяткино</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>44</clubid>
+   <club>FH на Большевиков</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>31</clubid>
+   <club>FH на Гашека</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>12</clubid>
+   <club>FH на Пискаревском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>37</clubid>
+   <club>FH на Таллинском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>43</clubid>
+   <club>FH на Дальневосточном</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>45</clubid>
+   <club>FH на Северном</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>27</clubid>
+   <club>FH на Культуры</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>3</clubid>
+   <club>FH на Пулковском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>5</clubid>
+   <club>FH в Лахте</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>28</clubid>
+   <club>FH на Крестовском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>13</clubid>
+   <club>FH на Комендантском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>46</clubid>
+   <club>FH в Кудрово</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>41</clubid>
+   <club>FH на Ветеранов</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>49</clubid>
+   <club>FH на Маршала Блюхера</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>40</clubid>
+   <club>FH на Стачек</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>48</clubid>
+   <club>FH на Краснопутиловской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>51</clubid>
+   <club>FH в Мурино</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>25</clubid>
+   <club>FH на Энгельса</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 4 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>39</clubid>
+   <club>FH на Фучика</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 4 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>851</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>19</clubid>
+   <club>FH на Мебельной</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>37</clubid>
+   <club>FH на Таллинском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>49</clubid>
+   <club>FH на Маршала Блюхера</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>44</clubid>
+   <club>FH на Большевиков</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>43</clubid>
+   <club>FH на Дальневосточном</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>39</clubid>
+   <club>FH на Фучика</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>48</clubid>
+   <club>FH на Краснопутиловской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>21</clubid>
+   <club>FH на Бульваре Новаторов</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>42</clubid>
+   <club>FH на Софийской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>3</clubid>
+   <club>FH на Пулковском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>6</clubid>
+   <club>FH на Савушкина</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>27</clubid>
+   <club>FH на Культуры</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>11</clubid>
+   <club>FH на Ладожской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>7</clubid>
+   <club>FH в Девяткино</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>12</clubid>
+   <club>FH на Пискаревском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>46</clubid>
+   <club>FH в Кудрово</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>31</clubid>
+   <club>FH на Гашека</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>51</clubid>
+   <club>FH в Мурино</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>45</clubid>
+   <club>FH на Северном</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>41</clubid>
+   <club>FH на Ветеранов</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>28</clubid>
+   <club>FH на Крестовском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>40</clubid>
+   <club>FH на Стачек</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>5</clubid>
+   <club>FH в Лахте</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>13</clubid>
+   <club>FH на Комендантском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Продление 2 года + 2 месяца в подарок ps</type>
+   <price>30000</price>
+   <clubid>25</clubid>
+   <club>FH на Энгельса</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>2 года + 2 месяца в подарок</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>791</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>(Акция) Продление 1 год День ps</type>
+   <price>15000</price>
+   <clubid>33</clubid>
+   <club>FH Prestige на Пулковском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>(Акция) Продление 1 год День ps</type>
+   <price>15000</price>
+   <clubid>38</clubid>
+   <club>FH Prestige на Гашека</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>(Акция) Продление 1 год День ps</type>
+   <price>15000</price>
+   <clubid>16</clubid>
+   <club>FH Prestige на Хошимина</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>День</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>Предпродажа в клуб на Наличной, 1 год Утро ps</type>
+   <price>9900</price>
+   <clubid>52</clubid>
+   <club>FH на Наличной</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>Утро</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>0</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>30</clubid>
+   <club>FH на Выборгской наб.</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>34</clubid>
+   <club>FH в Рыбацком</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>4</clubid>
+   <club>FH на Ленинском</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>2</clubid>
+   <club>FH на Стрелке В.О.</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+  <POSITION>
+   <type>"Мультикарта Fitness House" ps</type>
+   <price>45000</price>
+   <clubid>14</clubid>
+   <club>FH на Пражской</club>
+   <agreeddiscount>0</agreeddiscount>
+   <period>"1 год"</period>
+   <cardtime>свободное посещение</cardtime>
+   <skill></skill>
+   <days>365</days>
+   <webdiscount>2</webdiscount>
+   <subcnt>0</subcnt>
+  </POSITION>
+ </PRICELIST>
+</RESPONSE>
